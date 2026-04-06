@@ -1,6 +1,6 @@
 ---
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Sameera</h1>
+<h1 align="center">Hi 👋, I'm Sameera Herath</h1>
 <h3 align="center">Passionate IT Student | Debugging life one line at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameera0242&label=Profile%20views&color=0e75b6&style=flat" alt="sameera0242" /> </p>
