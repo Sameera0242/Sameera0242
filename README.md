@@ -1,3 +1,4 @@
+<img src="img_chania.jpg" alt="Flowers in Chania">
 <h1 align="center">Hi 👋, I'm Sameera</h1>
 <h3 align="center">Debugging life one line at a time</h3>
 
